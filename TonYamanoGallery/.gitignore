@@ -1,0 +1,9 @@
+node_modules
+.nitro
+.nuxt
+.output
+.cache
+*.log
+playwright-report
+blob-report
+storage-state.json

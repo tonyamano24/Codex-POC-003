@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="900" fill="url(#bg)" />
+  <rect x="120" y="120" width="1200" height="660" rx="32" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.1)" />
+  <rect x="180" y="200" width="400" height="40" rx="20" fill="#536ab5" />
+  <rect x="180" y="260" width="500" height="24" rx="12" fill="rgba(255,255,255,0.6)" />
+  <rect x="180" y="310" width="560" height="24" rx="12" fill="rgba(255,255,255,0.35)" />
+  <rect x="180" y="370" width="360" height="360" rx="28" fill="rgba(83,106,181,0.35)" />
+  <rect x="560" y="370" width="360" height="360" rx="28" fill="rgba(247,37,133,0.35)" />
+  <rect x="940" y="370" width="360" height="360" rx="28" fill="rgba(124,231,197,0.35)" />
+  <text x="50%" y="820" text-anchor="middle" font-family="'Playfair Display', serif" font-size="48" fill="rgba(255,255,255,0.8)">
+    Ton Yamano Gallery – Version 1 Preview
+  </text>
+</svg>
