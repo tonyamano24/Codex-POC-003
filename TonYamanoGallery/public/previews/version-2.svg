@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b1120" />
+      <stop offset="50%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#gradient)" />
+  <g>
+    <text x="120" y="160" font-family="'Playfair Display', serif" font-size="70" fill="#f8fafc">MOUNTAINS &amp; MIST</text>
+    <text x="120" y="220" font-family="Inter, sans-serif" font-size="28" fill="#e2e8f0">Release v1.5 — Alpine edition</text>
+  </g>
+  <g fill="none" stroke="#22d3ee" stroke-width="3" opacity="0.6">
+    <path d="M120 360 C260 260 420 420 560 320" />
+    <path d="M220 440 C360 340 520 500 660 380" />
+    <path d="M340 520 C500 420 660 560 820 420" />
+  </g>
+  <g>
+    <rect x="780" y="240" width="280" height="320" rx="28" fill="#0f172a" opacity="0.7" stroke="#38bdf8" />
+    <text x="820" y="320" font-family="Inter, sans-serif" font-size="24" fill="#bae6fd">Snow-soaked palettes, dreamy tones.</text>
+  </g>
+  <text x="120" y="640" font-family="Inter, sans-serif" font-size="28" fill="#38bdf8">Preview of release v1.5</text>
+</svg>

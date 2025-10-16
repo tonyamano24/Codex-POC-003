@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+  <defs>
+    <linearGradient id="dawn" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#1f2937" />
+      <stop offset="50%" stop-color="#0ea5e9" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#dawn)" />
+  <polygon points="0,520 200,360 320,480 460,320 600,520 600,800 0,800" fill="#0f172a" opacity="0.8" />
+  <text x="140" y="700" font-family="Inter, sans-serif" font-size="38" fill="#f0f9ff">Kamikochi Dawn</text>
+</svg>
