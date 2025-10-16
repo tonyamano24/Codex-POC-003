@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+  <defs>
+    <linearGradient id="emerald" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#emerald)" />
+  <ellipse cx="300" cy="460" rx="220" ry="140" fill="#0f172a" opacity="0.55" />
+  <text x="180" y="700" font-family="Inter, sans-serif" font-size="38" fill="#e0f2fe">Emerald Bay</text>
+</svg>

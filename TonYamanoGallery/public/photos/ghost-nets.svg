@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+  <rect width="600" height="800" fill="#0f172a" />
+  <path d="M80 220 C200 180 280 260 360 220 C440 180 520 220 560 200" stroke="#38bdf8" stroke-width="12" fill="none" opacity="0.5" />
+  <path d="M80 380 C200 340 280 420 360 380 C440 340 520 380 560 360" stroke="#22d3ee" stroke-width="12" fill="none" opacity="0.4" />
+  <path d="M80 540 C200 500 280 580 360 540 C440 500 520 540 560 520" stroke="#bae6fd" stroke-width="12" fill="none" opacity="0.3" />
+  <text x="180" y="700" font-family="Inter, sans-serif" font-size="38" fill="#38bdf8">Ghost Nets</text>
+</svg>

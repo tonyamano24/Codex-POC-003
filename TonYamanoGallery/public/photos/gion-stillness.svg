@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+  <rect width="600" height="800" fill="#111827" />
+  <rect x="160" y="200" width="280" height="400" rx="32" fill="#1f2937" stroke="#facc15" stroke-width="4" />
+  <circle cx="300" cy="340" r="120" fill="#facc15" opacity="0.2" />
+  <text x="200" y="640" font-family="Inter, sans-serif" font-size="38" fill="#fde68a">Gion Stillness</text>
+</svg>
