@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Aurora Release preview">
+  <defs>
+    <linearGradient id="aurora-gradient" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7" />
+      <stop offset="50%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#fb923c" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="#020617" />
+  <g opacity="0.85">
+    <path d="M0 280 Q160 120 320 260 T640 200 V400 H0 Z" fill="url(#aurora-gradient)" />
+  </g>
+  <g fill="#f8fafc" font-family="'Inter', sans-serif">
+    <text x="48" y="96" font-size="32" font-weight="700">Aurora Release</text>
+    <text x="48" y="138" font-size="18" opacity="0.8">Neon-lit portraits, 2019</text>
+  </g>
+</svg>

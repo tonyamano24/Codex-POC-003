@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Nebula Horizon preview">
+  <defs>
+    <linearGradient id="nebula-gradient" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#818cf8" />
+      <stop offset="60%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#1e40af" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="#020617" />
+  <g opacity="0.75">
+    <circle cx="160" cy="160" r="120" fill="url(#nebula-gradient)" />
+    <circle cx="420" cy="220" r="160" fill="url(#nebula-gradient)" opacity="0.7" />
+    <circle cx="520" cy="120" r="80" fill="url(#nebula-gradient)" opacity="0.6" />
+  </g>
+  <g fill="#f8fafc" font-family="'Inter', sans-serif">
+    <text x="48" y="320" font-size="32" font-weight="700">Nebula Horizon</text>
+    <text x="48" y="360" font-size="18" opacity="0.8">Cosmic narrative, 2024</text>
+  </g>
+</svg>

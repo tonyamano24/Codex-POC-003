@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Solstice Revision preview">
+  <defs>
+    <linearGradient id="solstice-gradient" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="50%" stop-color="#22d3ee" />
+      <stop offset="100%" stop-color="#0ea5e9" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="#020617" />
+  <rect x="48" y="72" width="504" height="256" rx="40" fill="#0f172a" opacity="0.9" />
+  <circle cx="180" cy="200" r="120" fill="url(#solstice-gradient)" opacity="0.85" />
+  <g fill="#f8fafc" font-family="'Inter', sans-serif">
+    <text x="320" y="180" font-size="32" font-weight="700">Solstice Revision</text>
+    <text x="320" y="220" font-size="18" opacity="0.8">Pastel minimalism, 2021</text>
+  </g>
+</svg>
