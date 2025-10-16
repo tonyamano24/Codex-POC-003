@@ -1,6 +1,6 @@
 # TonYamanoGallery
 
-TonYamanoGallery is a Nuxt 3 + Tailwind CSS powered photo gallery that presents Ton Yamano's photography through immersive storytelling sections and vibrant gradients.
+TonYamanoGallery is a Nuxt 3 + Tailwind CSS powered photo gallery that presents Ton Yamano's photography through immersive storytelling sections and vibrant gradients. It now includes dedicated collection pages with immersive image grids.
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ The development server runs on [http://localhost:3000](http://localhost:3000).
 
 ## Testing
 
-Playwright is configured in `playwright.config.ts` to launch the Nuxt dev server automatically. To run the end-to-end suite:
+Playwright is configured in `playwright.config.ts` to launch the Nuxt dev server automatically. The smoke tests cover the homepage journey and the collection detail flow.
 
 ```bash
 npm run test:e2e

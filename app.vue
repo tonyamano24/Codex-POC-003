@@ -14,15 +14,27 @@ const currentYear = new Date().getFullYear();
           Moments in Motion
         </h1>
         <p class="max-w-2xl text-base text-slate-300 sm:text-lg" style="font-family: 'Inter', sans-serif;">
-          A curated collection of photographs celebrating travel, candid portraits, and the subtle poetry of
-          everyday life. Each image invites you to linger and rediscover familiar stories from a fresh lens.
+          A curated collection of photographs celebrating travel, candid portraits, and the subtle poetry of everyday life.
+          Each image invites you to linger and rediscover familiar stories from a fresh lens.
         </p>
         <nav class="flex flex-wrap gap-4">
-          <NuxtLink to="#collections" class="rounded-full bg-brand-accent px-6 py-2 text-sm font-semibold text-slate-950 shadow-lg shadow-brand-accent/30 transition hover:bg-orange-500">
+          <NuxtLink
+            :to="{ path: '/', hash: '#collections' }"
+            class="rounded-full bg-brand-accent px-6 py-2 text-sm font-semibold text-slate-950 shadow-lg shadow-brand-accent/30 transition hover:bg-orange-500"
+          >
             Explore Collections
           </NuxtLink>
-          <NuxtLink to="#about" class="rounded-full border border-slate-700 px-6 py-2 text-sm font-semibold text-slate-100 transition hover:border-brand-accent hover:text-brand-accent">
+          <NuxtLink
+            :to="{ path: '/', hash: '#about' }"
+            class="rounded-full border border-slate-700 px-6 py-2 text-sm font-semibold text-slate-100 transition hover:border-brand-accent hover:text-brand-accent"
+          >
             About Ton
+          </NuxtLink>
+          <NuxtLink
+            to="/collections"
+            class="rounded-full border border-transparent px-6 py-2 text-sm font-semibold text-brand-accent transition hover:text-orange-400"
+          >
+            Browse Stories
           </NuxtLink>
         </nav>
       </div>
