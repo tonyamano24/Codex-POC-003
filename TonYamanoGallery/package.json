@@ -7,7 +7,9 @@
     "dev": "nuxt dev",
     "build": "nuxt build",
     "preview": "nuxt preview",
-    "lint": "eslint ."
+    "lint": "eslint . --ext .js,.ts,.vue",
+    "format": "prettier --check .",
+    "format:write": "prettier --write ."
   },
   "dependencies": {
     "nuxt": "^3.11.2"
