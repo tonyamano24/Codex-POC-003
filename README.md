@@ -12,6 +12,15 @@ npm run dev
 
 Visit `http://localhost:3000` to explore the gallery.
 
+### Linting and formatting
+
+```bash
+npm run lint
+npm run format
+```
+
+Use `npm run format:write` to automatically fix formatting issues with Prettier.
+
 ## Tech stack
 
 - [Nuxt 3](https://nuxt.com/) for the application framework and SEO utilities.
